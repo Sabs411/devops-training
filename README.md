@@ -1,0 +1,2 @@
+# devops-training
+mock account
